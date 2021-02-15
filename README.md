@@ -1,2 +1,2 @@
-# flat-buttons
-These are very simple buttons created by me!
+# simple quote page
+This is a simple quote page.
